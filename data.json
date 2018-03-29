@@ -1,0 +1,36 @@
+{
+  "basics":{
+    "photo":"profile.png",
+    "name":"ravi",
+    "email":"dtreddy008@gmail.com",
+    "mobile":"8989898989",
+    "Address":"chitoor"
+  },
+  "career":{
+    "info":"is the most important part of resume which describe your motive of professional career and Job. So it should be originally written by your own words that what you want for your future growth and what is the objective of your career."
+  }
+},
+"education":[
+  {
+    "course":"mca",
+    "college": "svpcet,puttoor",
+    "data":["2017-20","94.9%]
+  },
+  {
+    "course":"B.Sc(computers)",
+    "college":"ramana degree college,puttore",
+    "data":["2012-15","94.9%]
+  },
+  {
+    "course":"inter(m.p.c)",
+    "college":"ramana jr college,puttore",
+    "data":["2011-13","94.9%]
+  },
+  {
+    "course":"s.s.c",
+    "college":"ramana high school,puttore",
+    "data":["2010-11","94.9%]
+  },
+
+
+]
